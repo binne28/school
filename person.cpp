@@ -198,6 +198,10 @@ int main(){
             if(tim == false){
                 cout << "Khong tim thay ten\n";
             }
+        }else{
+            cout << "=========== CAM ON BAN DA GHE CHUONG TRINH CUA TOI ===========\n";
+            cout << "=========== program created by Nguyen Son ===================\n";
+            cout << "=========== TAM --------------------- BIET ===================\n";
         }
     } while (choice != 0);
     
